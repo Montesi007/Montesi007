@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Montesi007
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning CS50 and 100 day python
+- 🌱 I’m currently learning CS50 and 100 days of code "python"
 - 💞️ I’m looking to collaborate on the best way to get employment
 - 📫 Feel free to email me at Montesi007@gmail.com
 - 😄 Looking for a Career Change! 
